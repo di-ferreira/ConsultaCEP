@@ -10,4 +10,4 @@ Bot criado utilizando o Componente TInject no [tutorial](https://www.youtube.com
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/di-ferreira/ConsultaCEP/blob/master/LICENSE.md)
